@@ -1,0 +1,2 @@
+Accuracy= 0.79
+Bleu= 88.49
